@@ -1,0 +1,2 @@
+# athena
+Athena is an AI-driven assistant that streamlines daily tasks, from voice-to-text to reminders and information retrieval. Powered by LangChain and Ollama, it provides real-time, interactive responses with session-based history and live AI streaming, making your everyday life easier and more efficient.
